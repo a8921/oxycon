@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Arduino build artefacts
+build/
+*.elf
+*.hex
+*.map
+
+# Large media (keep PNGs for README)
+media/*.gif
+media/*.mp4

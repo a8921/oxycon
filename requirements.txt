@@ -1,0 +1,2 @@
+# Python test dependencies only (no Pi hardware required for tests)
+pytest>=7.0
