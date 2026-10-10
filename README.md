@@ -7,6 +7,8 @@ Arduino-based controller for a 2-column, 3-valve Pressure Swing Adsorption
 (PSA) oxygen concentrator. Produces 90–95% O₂-enriched air from ambient air
 using zeolite molecular sieves and an off-the-shelf compressor.
 
+![OXYCON prototype with the 7-member team, built during COVID-19 pandemic](media/prototype.jpg)
+
 ---
 
 ## Hardware
